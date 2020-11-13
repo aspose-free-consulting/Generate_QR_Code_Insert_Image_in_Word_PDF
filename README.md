@@ -1,6 +1,6 @@
 # Generate QR Code & Save it to BMP Image, Insert QR Code Image Stream in Document & Convert Word to PDF
 
-This [free consulting project](https://aspose-free-consulting.github.io/) first uses [Aspose.BarCode for .NET](https://products.aspose.com/barcode/net) API to generated a QR Code image in BMP format and saves QR image to memory stream. It then uses [Aspose.Words for .NET](https://products.aspose.com/words/net) API to insert QR Code's BMP Image form memory stream at the end of Word document and finally saves Word document to PDF format on disk.
+This [free consulting project](https://aspose-free-consulting.github.io/) first uses [Aspose.BarCode for .NET](https://products.aspose.com/barcode/net) API to generate a QR Code image in BMP format and saves QR image to memory stream. It then uses [Aspose.Words for .NET](https://products.aspose.com/words/net) API to insert QR Code's BMP Image form memory stream at the end of Word document and finally saves Word document to PDF format on disk.
 
 * [How to Encode QR Code & Generate BMP Image](https://docs.aspose.com/barcode/net/qr-and-micro-qr-barcode/#how-to-encode-qr-code)
 * [Inserting an Inline Image in Word Document](https://docs.aspose.com/words/net/working-with-images/#inserting-an-inline-image)
