@@ -23,5 +23,5 @@ If you have any questions about Aspose APIs, please feel free to [post your quer
 
 Also, you can keep in touch with the latest developments in [file format APIs offered by Aspose at our Blog](https://blog.aspose.com/). 
 
-## This free consluting project is based on the following issue:
+## This free consulting project is based on the following issue:
 [Add QR Code on Existing PDF or Word Doc](https://github.com/aspose-free-consulting/projects/issues/38)
